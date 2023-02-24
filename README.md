@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-I am a junior developer with a background in Computer Systems from the British Columbia Institute of Technology.  I have a passion for technology and I enjoy keeping up-to-date with the latest industry trends.
+I am a junior developer with a background in Computer Systems from the British Columbia Institute of Technology.  I have a passion for technology and enjoy keeping up-to-date with the latest industry trends.
 
 ## Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
